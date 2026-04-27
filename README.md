@@ -1,4 +1,4 @@
-# MCQ Assessment — Introduction to Research2
+# MCQ Assessment — Introduction to Research
 
 Small full-stack app: **React (Vite)** frontend, **Node/Express** API, **PostgreSQL**.
 
